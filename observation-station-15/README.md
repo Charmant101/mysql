@@ -1,8 +1,9 @@
-Query the Western Longitude (LONG_W) for the largest Northern Latitude (LAT_N) in STATION that is less than 137.2345 Round your answer to 4 decimal places.
+Query the following two values from the STATION table:
 
-Input Format
+1.The sum of all values in LAT_N rounded to a scale of  decimal places.
+2.The sum of all values in LONG_W rounded to a scale of  decimal places.
 
-The STATION table is described as follows:
+
 
 Input Format
 
